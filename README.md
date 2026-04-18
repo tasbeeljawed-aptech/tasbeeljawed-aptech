@@ -132,7 +132,7 @@ A client-side utility that dynamically parses structured JSON data and renders i
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tasbeeljawed-aptec&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tasbeeljawed-aptech&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
 &nbsp;&nbsp;
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasbeeljawed-aptech&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 
@@ -146,9 +146,9 @@ A client-side utility that dynamically parses structured JSON data and renders i
 
 | Platform | Link |
 |---|---|
-| LinkedIn | [linkedin.com/in/tasbeel](https://linkedin.com/in/tasbeel) |
-| GitHub | [github.com/tasbeel](https://github.com/tasbeel) |
-| Email | tasbeel@aptech.edu |
+| LinkedIn | [linkedin.com/in/tasbeel](https://linkedin.com/in/tasbeeljawed) |
+| GitHub | [github.com/tasbeel](https://github.com/tasbeeljawed-aptech) |
+| Email | tasbeel@aptechnorth.edu.pk |
 
 <br>
 
